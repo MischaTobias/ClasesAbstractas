@@ -126,14 +126,28 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Cuadrilatero.cpp" />
+    <ClCompile Include="Decagono.cpp" />
+    <ClCompile Include="Eneagono.cpp" />
+    <ClCompile Include="Heptagono.cpp" />
+    <ClCompile Include="Hexagono.cpp" />
     <ClCompile Include="MyForm.cpp" />
+    <ClCompile Include="Octagono.cpp" />
+    <ClCompile Include="Pentagono.cpp" />
     <ClCompile Include="Poligono.cpp" />
     <ClCompile Include="Triangulo.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Cuadrilatero.h" />
+    <ClInclude Include="Decagono.h" />
+    <ClInclude Include="Eneagono.h" />
+    <ClInclude Include="Heptagono.h" />
+    <ClInclude Include="Hexagono.h" />
     <ClInclude Include="MyForm.h">
       <FileType>CppForm</FileType>
     </ClInclude>
+    <ClInclude Include="Octagono.h" />
+    <ClInclude Include="Pentagono.h" />
     <ClInclude Include="Poligono.h" />
     <ClInclude Include="Triangulo.h" />
   </ItemGroup>
