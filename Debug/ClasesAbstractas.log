@@ -1,0 +1,13 @@
+﻿  Cuadrilatero.cpp
+  Decagono.cpp
+  Eneagono.cpp
+  Heptagono.cpp
+  Hexagono.cpp
+  MyForm.cpp
+  Octagono.cpp
+  Pentagono.cpp
+  Triangulo.cpp
+  Generando código...
+C:\Users\misch\source\repos\ClasesAbstractas\Triangulo.cpp(7,22): warning C4244: 'return': conversión de 'double' a 'int'; posible pérdida de datos
+  Cuadrilatero.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  ClasesAbstractas.vcxproj -> C:\Users\misch\source\repos\ClasesAbstractas\Debug\ClasesAbstractas.exe
